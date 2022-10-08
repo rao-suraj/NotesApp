@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="anuj">Anuj</string>
+    <string name="enter_note_here">Enter note here</string>
+</resources>
